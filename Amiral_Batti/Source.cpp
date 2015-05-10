@@ -4,10 +4,10 @@
 #include <allegro5/allegro_audio.h>
 #include <allegro5/allegro_acodec.h>
 #include <allegro5/allegro_primitives.h>
-//-----------------------------------
+//------------------------------------
 #include <stdio.h>
 
-//DEÐÝÞKENLER------------------------
+//DEÐÝÞKENLER-------------------------
 ALLEGRO_DISPLAY *display = NULL;
 ALLEGRO_BITMAP *background = NULL;
 ALLEGRO_SAMPLE *sample = NULL;
@@ -16,7 +16,7 @@ int bgWidth = 0;
 int bgHeight = 0;
 int width = 640;
 int height = 640;
-//------------------------------------
+//-------------------------------------
 
 
 
