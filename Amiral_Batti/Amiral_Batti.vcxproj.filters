@@ -34,4 +34,9 @@
       <Filter>Resource Files</Filter>
     </Media>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="bomb.ogg">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
 </Project>

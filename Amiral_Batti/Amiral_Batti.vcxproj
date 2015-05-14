@@ -88,6 +88,9 @@
   <ItemGroup>
     <Media Include="bomb.wav" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="bomb.ogg" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
